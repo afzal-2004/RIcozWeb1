@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-shaped-image {
+
+
+    border-radius: 85% 15% 43% 57% / 57% 37% 63% 43%;
+
+
+}
+
+.other {
+    transform: scaleX(-1);
+    margin-top: 5rem;
+}
+
+
+
+.custom-shaped-image1 {
+
+
+    border-radius: 14% 86% 35% 65% / 60% 60% 40% 40%;
+
+}
+
+.footerFrm {
+    border: none;
+    background: transparent;
+    border-bottom: 3px white solid
+}
+
+.footercolor {
+    background: linear-gradient(263deg, #172458 0.01%, #191726 99.6%);
+}
