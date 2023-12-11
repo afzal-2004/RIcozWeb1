@@ -1,7 +1,7 @@
 /* eslint-disable react-refresh/only-export-components */
 import WebDevCard from "./WebCard";
 import GRAPHIS from "./Graphics";
-import DIGTIALMARKET from "./DigitialMArket";
+import DIGTIALMARKET from "./DigitialMarket";
 // import BUTTON from "./Button";
 import { Explore } from "./Button";
 const CONTENTCARDS = () => {
